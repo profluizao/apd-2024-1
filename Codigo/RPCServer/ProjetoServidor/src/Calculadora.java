@@ -7,7 +7,7 @@ public class Calculadora {
         return x - y;
     }
 
-    public int Multiplicao(int x, int y){
+    public int Multiplicacao(int x, int y){
         return x * y;
     }
 
